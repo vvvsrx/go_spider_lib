@@ -33,7 +33,7 @@ func init() {
 
 var BookongProduct = &Spider{
 	Name:        "booking中文",
-	Description: "booking数据抓取 [http://www.booking.com/destination.html]",
+	Description: "booking数据抓取 [http://www.booking.com]",
 	// Pausetime: 300,
 	//Keyin:        KEYIN,
 	//Limit:        LIMIT,
